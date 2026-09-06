@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "EL_PACKAGE_ID_QUE_PUSISTE",
+    "sha256_cert_fingerprints": [
+      "LA_HUELLA_SHA256_QUE_COPIASTE_DE_GOOGLE_PLAY"
+    ]
+  }
+}]
